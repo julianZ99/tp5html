@@ -1,0 +1,17 @@
+.custom-header {
+    background-color: #FF5733; /* Define your custom color here */
+    /* Additional styles if needed */
+}
+form{
+    margin: 50px;
+}
+
+.confirmationOrNegationParagraph{
+    text-align: center;
+}
+
+.buttonsOnAcordionBody{
+    align-self: center;
+    display: inline-block;
+    padding-left: 560px;
+}
